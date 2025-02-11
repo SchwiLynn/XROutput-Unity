@@ -1,0 +1,4 @@
+repository "TryforAVP@linhsongtu1510@cloud"
+  path "/"
+    br "/main"
+    co "/main"
